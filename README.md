@@ -1,0 +1,2 @@
+# REVERSI
+Board game project
